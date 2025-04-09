@@ -72,7 +72,6 @@ Project	Description	Tech Stack
 🎬 Jio Cinema Clone	A clone UI/UX of Jio Cinema	React.js, CSS
 🔍 Bug Bounty	Real-world vulnerability hunting	Various platforms
 
-## 📫 Connect with Me
 
 ## 📫 Connect with Me
 
