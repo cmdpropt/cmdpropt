@@ -55,15 +55,17 @@ Project	Description	Tech Stack
 
 ## 📫 Connect with Me
 
+## 📫 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/saksham-awasthi-4267b0254/" target="_blank">
+  <a href="https://www.linkedin.com/in/saksham-awasthi-4267b0254/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/cmdpropt" target="_blank">
+  <a href="https://github.com/cmdpropt">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:sakshamawasthi99@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
