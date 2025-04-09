@@ -25,11 +25,29 @@
 ---
 
 ### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-```bash
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+### 🧰 Cybersecurity Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+
+---
 Languages      : Java, Python, HTML/CSS, JavaScript
 Tools          : Git, GitHub, Burp Suite, Nmap, Wireshark
-Frameworks     : Swing, Spring (basic), Node.js (learning)
+Frameworks     : Swing, Spring (basic), Node.js (learning
 
 📜 Certifications
 ✅ SQL Bootcamp
