@@ -42,6 +42,7 @@
 ### 🧰 Cybersecurity Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![KAlI](https://img.shields.io/badge/-SkillName-Color?style=for-the-badge&logo=LogoName&logoColor=white)
 
 
 ---
