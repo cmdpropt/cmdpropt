@@ -54,7 +54,7 @@ Project	Description	Tech Stack
 🔍 Bug Bounty	Real-world vulnerability hunting	Various platforms
 
 📫 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/sakshamawasthi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/cmdpropt" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="mailto:sakshamawasthi99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/saksham-awasthi-4267b0254/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/cmdpropt" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="mailto:sakshamawasthi99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmdpropt&show_icons=true&theme=radical" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdpropt&layout=compact&theme=radical" height="150"> </p>
 
 🚀 Goals for 2025
