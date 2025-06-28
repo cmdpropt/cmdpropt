@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE (Cyber Security) @ **Jaipur National University**
+- 🎓 4rd Year B.Tech CSE (Cyber Security) @ **Jaipur National University**
 - 🛡️ Passionate about **Ethical Hacking**, **Vulnerability Hunting**
 - 💬 Ask me about **Java**, **Git**, **Bug Bounty**, **Networking**
 - 🧠 Constantly learning and building new things
